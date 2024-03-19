@@ -12,6 +12,8 @@
 
 Ответ:
 
+Манифесты доступны по ссылке: https://github.com/vmmaltsev/kuber-homeworks-3.3/tree/main/test1
+
 Deployment в namespace app
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_154.png)
